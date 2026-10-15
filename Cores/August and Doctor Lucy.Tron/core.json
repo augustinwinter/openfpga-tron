@@ -1,0 +1,36 @@
+{
+  "core": {
+    "magic": "APF_VER_1",
+    "metadata": {
+      "platform_ids": [
+        "midway_mcr2"
+      ],
+      "shortname": "Tron",
+      "description": "Tron - Analogue Pocket FPGA Adaptation",
+      "author": "August and Doctor Lucy",
+      "url": "https://github.com/augustinwinter/openfpga-tron",
+      "version": "0.2.0",
+      "date_release": "2026-10-14"
+    },
+    "framework": {
+      "target_product": "Analogue Pocket",
+      "version_required": "1.1",
+      "sleep_supported": false,
+      "dock": {
+        "supported": true,
+        "analog_output": false
+      },
+      "hardware": {
+        "link_port": false,
+        "cartridge_adapter": -1
+      }
+    },
+    "cores": [
+      {
+        "name": "default",
+        "id": 0,
+        "filename": "bitstream.rbf_r"
+      }
+    ]
+  }
+}

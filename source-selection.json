@@ -1,0 +1,8 @@
+{
+  "source_root": "clean V02 controller-only source tree",
+  "included_file_count": 44,
+  "excluded_file_paths_for_review": [
+    "core/mf_pllbase.sip"
+  ],
+  "notes": "Excluded generated files and binary ROM-like formats; verify any excluded FPGA initialization data if rebuilding."
+}

@@ -1,0 +1,13 @@
+{
+  "project": "Tron",
+  "version": "0.2.0",
+  "platform": "midway_mcr2",
+  "repository": "augustinwinter/openfpga-tron",
+  "original_export_sha256": "2845893d8d6192235ff008e0f5ab219c21335eaf6dfeb85037e2faeb9fae5905",
+  "restored_pll_sha256": "752c75273cd503db1ea268be3f17d6c901365994e0aef11e94916185639bf34e",
+  "rom_included": false,
+  "macos_metadata_included": false,
+  "hardware_test": "Confirmed docked and undocked",
+  "fresh_rebuild_from_repository": "Not yet independently verified",
+  "upstream_license_review": "Required before public release"
+}

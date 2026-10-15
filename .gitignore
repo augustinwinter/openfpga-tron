@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+# Build products and compiler-generated state
+**/db/
+**/incremental_db/
+**/output_files/
+**/__pycache__/
+*.log
+*.vvp
+*.sof
+*.rbf
+*.rom
+*.zip
+# Local/private ROM and release bundles
+private-release/
+# Keep tracked Pocket bitstream only if redistribution permission permits.
