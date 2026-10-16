@@ -1,3 +1,7 @@
+<img width="521" height="165" alt="tron-banner-original-color" src="https://github.com/user-attachments/assets/d435e66b-d953-499f-8e3f-1e6cbba615ba" />
+
+
+
 # Tron — openFPGA core for Analogue Pocket
 
 **Core:** Tron · **Version:** 0.2.0 (V02) · **Hardware:** Bally Midway MCR-II (1982)  
