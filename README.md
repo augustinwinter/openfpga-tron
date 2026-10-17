@@ -7,7 +7,7 @@
 **Core:** Tron · **Version:** 0.2.0 (V02) · **Hardware:** Bally Midway MCR-II (1982)  
 **Pocket port and controller adaptation:** August and Doctor Lucy (ChatGPT)
 
-This is an independent FPGA preservation adaptation of the original arcade game **Tron** for the Analogue Pocket's openFPGA framework. The adaptation integrates a dual-stick layout for an external controller while preserving a fully usable handheld control scheme.
+This is an independent FPGA preservation adaptation of the original arcade game **Tron** for the Analogue Pocket's openFPGA framework. Like my first effort, this was done entirely with the help of ChatGPT / Codex, and done as a proof of concept. I am not a developer. The adaptation integrates a dual-stick layout for an external controller while preserving a fully usable handheld control scheme.
 
 ## Status
 
